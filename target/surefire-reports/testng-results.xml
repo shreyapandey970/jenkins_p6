@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-14T22:32:02 IST" name="TestSuite" finished-at="2025-02-14T22:32:02 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2025-02-14T22:32:02 IST" name="TestNGJenkinsDemo" finished-at="2025-02-14T22:32:02 IST" duration-ms="86">
+      <class name="com.example.AppTest">
+        <test-method signature="testAddition()[pri:0, instance:com.example.AppTest@5dd6264]" started-at="2025-02-14T22:32:02 IST" name="testAddition" finished-at="2025-02-14T22:32:02 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+      </class> <!-- com.example.AppTest -->
+    </test> <!-- TestNGJenkinsDemo -->
+  </suite> <!-- TestSuite -->
+</testng-results>
